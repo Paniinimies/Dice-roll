@@ -10,6 +10,7 @@ The game has two gamemodes:
 --requirements--
 
 You need Python 3 installed on your device. You can get if either from the Microsoft store, or download an installer from:
+
 -[Windows page](https://www.python.org/downloads/windows/)
 
 -[MacOS page](https://www.python.org/downloads/macos/)
