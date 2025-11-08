@@ -11,6 +11,7 @@ The game has two gamemodes:
 
 You need Python 3 installed on your device. You can get if either from the Microsoft store, or download an installer from:
 -[Windows page](https://www.python.org/downloads/windows/)
+
 -[MacOS page](https://www.python.org/downloads/macos/)
 
 Once you have the installer, run it and follow the instructions. Now you can run the game in any code editor/IDE for example VS code.
